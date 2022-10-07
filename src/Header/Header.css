@@ -1,0 +1,23 @@
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.img{
+    margin-left: 90px;
+
+}
+.anchor {
+    margin-right: 40px;
+}
+.anchor a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 17px;
+    margin-left: 20px;
+}
+.anchor a:hover{
+   color: brown;
+}
